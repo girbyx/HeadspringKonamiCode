@@ -20,6 +20,10 @@ You just need to answer these few questions before you begin:
 
 If you answered **_yes_** to everything, this '*library*' is for you.
 
+## But seriously... What is *this* really supposed to do?
+
+It will create a 'canvas' tag to display the Headspring logo programatically on the 'fixed' bottom right corner of the screen.
+
 ## Just remember:
 
 :arrow_up::arrow_up::arrow_down::arrow_down::arrow_left::arrow_right::arrow_left::arrow_right::b::a:
